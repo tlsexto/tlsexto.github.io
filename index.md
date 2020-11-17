@@ -36,7 +36,7 @@
 
 |This|Is|A|Pretty|Sweet|Table|
 |--|--|--|--|--|--|
-|  |  |  |  |  |  |
+| [a](https://google.com) | *wow* | 3 | **nice** | ~~nope~~ | 6 |
 | a | b | c | d | e | f |
 
 ---
@@ -44,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTc2NjI2N119
+eyJoaXN0b3J5IjpbMjUxNTM3NzU5LDE2NDU3NjYyNjddfQ==
 -->
